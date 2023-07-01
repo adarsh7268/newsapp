@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nadhim Zahawi committed a serious breach of ministerial code, says Sunak",
+            "description": "The PM sacks his party chairman after ethics adviser criticises how Nadhim Zahawi handled tax affairs.",
+            "url": "http://www.bbc.co.uk/news/uk-64444265",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/52FF/production/_128374212_c976377d05a425b17894bff5b7bef09e9b0dc290.jpg",
+            "publishedAt": "2023-01-29T15:52:19.8381955Z",
+            "content": "Nadhim Zahawi has been sacked as Tory Party chair after an inquiry by the PM's ethics adviser found he had failed to disclose that HMRC was investigating his tax affairs. \r\nThe PM said Sir Laurie Mag… [+6904 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Iran 'foils drone attack' on military facility in Isfahan",
+            "description": "The defence ministry said three drones were involved, but there was only minor damage to the site.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-64445306",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4407/production/_128451471_f3f04722-9af5-458b-96f1-c1342ef07119.png",
+            "publishedAt": "2023-01-29T13:52:21.6972412Z",
+            "content": "The Iranian defence ministry says it has foiled a drone attack on a military facility in the city of Isfahan. \r\nThe ministry said three drones were involved but there were no casualties.\r\nOne drone w… [+1633 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "More than 50 die in two Pakistan accidents",
+            "description": "A bus fell into a ravine in the south-west, while 10 children died when a boat capsized in the north-west.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64444058",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AD11/production/_128450344_gettyimages-1246636088.jpg",
+            "publishedAt": "2023-01-29T09:22:23.0839889Z",
+            "content": "More than 50 people were killed in two separate travel-related accidents in Pakistan on Sunday. \r\nAt least 41 people died when a bus fell into a ravine and caught fire in the south-west, while in the… [+1251 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Richard Sharp: Boris Johnson was told to stop asking for loan advice",
+            "description": "The then-PM was warned off talking to incoming BBC chairman Richard Sharp, the Sunday Times reports.",
+            "url": "http://www.bbc.co.uk/news/uk-64440335",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12ABA/production/_127847467_johnson-index-pa.jpg",
+            "publishedAt": "2023-01-29T07:52:21.4310046Z",
+            "content": "Links between Boris Johnson and BBC chairman Richard Sharp are under fresh scrutiny, following a report that the then-prime minister was told to stop asking Mr Sharp for financial \"advice\".\r\nMr Sharp… [+3717 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New US childhood obesity guidelines criticised by families",
+            "description": "Some families worry that new guidelines from US paediatricians prioritise surgery and intensive therapy.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64427931",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17682/production/_128447859_6df1d6fc9531e0c49ffb2674e2e27583c96099280_166_4032_22681000x563.jpg",
+            "publishedAt": "2023-01-29T05:52:22.4807773Z",
+            "content": "In the US, new guidelines on how paediatricians should treat childhood obesity have been met with some criticism. \r\nThe American Academy of Paediatrics has recommended intensive therapy for children … [+4541 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump's 2024 campaign has a different look, for now",
+            "description": "The former president makes his first foray out of Florida and shows signs of a serious re-election bid.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64442720",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4B5E/production/_128449291_gettyimages-1460358998.jpg",
+            "publishedAt": "2023-01-29T02:07:21.1968971Z",
+            "content": "Donald Trump's announcement that he's running for US president in 2024 wasn't a lark, or a ploy to avoid prosecution, as some have speculated. He's hitting the road and laying the kind of groundwork … [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Unanswered questions from videos of Tyre Nichols' arrest",
+            "description": "The footage shows a brutal beating but we still don't know why officers decided to stop his car.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64442019",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18276/production/_128443989_57c3b58b2313f63eba9b6e4691f4cfa2b6448b9c.jpg",
+            "publishedAt": "2023-01-28T23:37:21.5886869Z",
+            "content": "Media caption, Watch: Footage shows the violent arrest of Tyre Nichols\r\nEveryone who has seen the footage of Tyre Nichols' fatal encounter with five Memphis police officers has come to the same concl… [+5291 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tyre Nichols: Police unit is disbanded after death",
+            "description": "The so-called Scorpion special unit will be disbanded after its officers were seen beating Mr Nichols.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64442756",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-01-28T22:22:16.072011Z",
+            "content": "Media caption, Watch: New footage shows deadly arrest of Tyre Nichols\r\nThe Memphis Police Department has disbanded the so-called Scorpion special unit, whose officers are accused of murdering Tyre Ni… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Toronto struggles with wave of transit violence",
+            "description": "There have been seven reported incidents of violence in seven days, fuelling worry among commuters.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64408450",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58FD/production/_128418722_gettyimages-1271923321.jpg",
+            "publishedAt": "2023-01-28T14:37:21.0300677Z",
+            "content": "Commuters in Toronto have been navigating the city's public transport system with growing unease, following a surge of violent incidents targeting both riders and operators.\r\nAs of Friday, there were… [+5616 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jerusalem shooting: Thirteen-year-old held over second attack in days",
+            "description": "A Palestinian boy is arrested after opening fire in the city, a day after an attack killed seven people.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-64438905",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80B0/production/_128444923_ee0d9f4f944cf1b7dcfd0ba9de9ea5e41eadd83e.jpg",
+            "publishedAt": "2023-01-28T13:07:18.7182174Z",
+            "content": "A 13-year-old Palestinian boy was behind a shooting in Jerusalem on Saturday, Israeli police have said. \r\nTwo people - a father and son - were seriously wounded, while the attacker was shot and injur… [+4475 chars]"
+        }
+    ]
+}
